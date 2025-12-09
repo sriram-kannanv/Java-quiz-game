@@ -4,7 +4,7 @@ const questions = [
     { question: 'Which keyword is used to create an object in Java?', options: ['new', 'class', 'object', 'create'], answer: 'new' },
     { question: 'What is the default value of a boolean variable in Java?', options: ['true', 'false', '0', 'null'], answer: 'false' },
     { question: 'What is inheritance in Java?', options: ['A mechanism where one class acquires the properties and behavior of another class', 'A method to encapsulate data', 'A technique to hide data', 'A process to define multiple methods'], answer: 'A mechanism where one class acquires the properties and behavior of another class' },
-    { question: 'Which method is called when an object is created in Java?', options: ['Constructor', 'Main', 'Finalize', 'Init'], answer: 'Constructor' },
+    { question: 'Which method is called when an object is created in Java?', options: ['ConstructoS', 'Main', 'Finalize', 'Init'], answer: 'ConstructoS' },
     { question: 'What is a package in Java?', options: ['A collection of classes and interfaces', 'A method to hide data', 'A technique to improve performance', 'A type of variable'], answer: 'A collection of classes and interfaces' },
     { question: 'What is polymorphism in Java?', options: ['Ability of a variable, function, or object to take multiple forms', 'A technique to hide data', 'A method to encapsulate data', 'A process to define multiple methods'], answer: 'Ability of a variable, function, or object to take multiple forms' },
     { question: 'Which of the following is not a Java feature?', options: ['Object-oriented', 'Portable', 'Platform dependent', 'Dynamic and Extensible'], answer: 'Platform dependent' },
